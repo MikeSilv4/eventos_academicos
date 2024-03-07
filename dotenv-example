@@ -1,0 +1,10 @@
+DEBUG = True
+SECRET_KEY = 'change'
+
+#Database
+ENGINE = 'django.db.backends.postgresql'
+DB_NAME = 'change'
+DB_USER = 'change'
+DB_USER_PASSWORD = 'change'
+DB_HOST = 'change'
+DB_PORT = 'change'
